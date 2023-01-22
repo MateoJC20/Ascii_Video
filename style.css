@@ -21,8 +21,8 @@ body {
     align-items: center;
 }
 
-.texto-principal{
-    /*background-color: #f900a3;*/
+/*.texto-principal{
+    /*background-color: #f900a3;
     background-image: linear-gradient(0deg, #001df9, rgb(255, 0, 0));
     background-size: 100%;
     background-clip: text;
@@ -31,5 +31,5 @@ body {
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
-}
+    -moz-text-fill-color: transparent;*/
+/*}
