@@ -1,4 +1,4 @@
-const density = 'MTC&$J13100057962/xyz+*=;,.-';
+const density = '.,;=+*xyz/$131000MTC';
 
 let video;
 let asciiDiv;
@@ -8,6 +8,7 @@ function setup() {
   video = createCapture(VIDEO);
   video.size (64, 32);
   asciiDiv = createDiv();
+  asciiDiv.addClass('texto-principal');
 }
 
 function draw() {
