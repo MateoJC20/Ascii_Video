@@ -76,4 +76,3 @@ function draw() {
               asciiDiv.html(asciiImage);
 }
 
-
